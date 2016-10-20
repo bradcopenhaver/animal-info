@@ -1,0 +1,15 @@
+img {
+  width: 450px;
+}
+
+.output-ducks {
+  display: none;
+}
+
+.output-geese {
+  display: none;
+}
+
+.output-panda {
+  display: none;
+}
